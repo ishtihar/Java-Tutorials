@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.Scanner;
-//ishtiharkhan 1995-2024h
+//ishtiharkhan 1995-2024hour
 public class ArrayPractice {
     public static void main(String[] args) {
 //        Create an array of 5 floats and calculate their sum.
