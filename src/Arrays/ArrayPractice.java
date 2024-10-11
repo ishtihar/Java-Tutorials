@@ -13,7 +13,7 @@ public class ArrayPractice {
         }
 //        System.out.println(sum);
 
-//        Write a program to find out whether a given integer is present in an array or not.
+//        Write a program to find out whether a given ingiteger is present in an array or not.
         System.out.println("Enter the number");
         Scanner sc=new Scanner(System.in);
         int input=sc.nextInt();
