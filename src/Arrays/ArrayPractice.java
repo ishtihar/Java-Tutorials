@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.Scanner;
-//ishtiharkhan 1995-2024 ye sabse naya hai
+//ishtiharkhan 1995-2024 6:2 par update hua
 public class ArrayPractice {
     public static void main(String[] args) {
 
