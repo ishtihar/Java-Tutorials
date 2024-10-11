@@ -1,0 +1,10 @@
+modules = ["java-graalvm22.3", "web"]
+
+# Compile and run the Java program in one step
+run = "sh -c 'javac src/Arrays/ArrayPractice.java && java -cp src Arrays.ArrayPractice'"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "javac src/Arrays/ArrayPractice.java && java -cp src Arrays.ArrayPractice"]
