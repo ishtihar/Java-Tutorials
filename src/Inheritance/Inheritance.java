@@ -32,4 +32,4 @@ public class Inheritance {
         System.out.println(b.getX());
     }
 }
-//ishtihar new
+//ishtihar new 2
