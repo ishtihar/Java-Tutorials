@@ -32,3 +32,4 @@ public class Inheritance {
         System.out.println(b.getX());
     }
 }
+//ishtihar khan 
