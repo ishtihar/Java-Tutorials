@@ -1,4 +1,3 @@
-Here's a README for your Java Tutorials GitHub repository, formatted to give a quick overview of the content and help users get started easily:
 
 ---
 
