@@ -1,5 +1,5 @@
 package Oops;
-//Bank Balance encapsulation example
+//Bank Balance encapsulation example ishtihargit
 class Bank {
     private double balance;
 
