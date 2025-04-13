@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.Scanner;
-//ishtiharkhan 1995-2024 6:2 par update hua - 13 april 2024 10:40 pm
+//ishtiharkhan 1995-2024 6:2 par update hua - 13 april 2024 10:40 pmgit
 public class ArrayPractice {
     public static void main(String[] args) {
 
