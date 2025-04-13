@@ -1,10 +1,10 @@
 modules = ["java-graalvm22.3", "web"]
 
 # Compile and run the Java program in one step
-run = "sh -c 'javac src/Inheritance/Inheritance.java && java -cp src Inheritance.Inheritance'"
+run = "sh -c 'javac src/Oops/Inheritance.java && java -cp src Inheritance.Inheritance'"
 
 [nix]
 channel = "stable-24_05"
 
 [deployment]
-run = ["sh", "-c", "javac src/Inheritance/Inheritance.java && java -cp src Inheritance.Inheritance"]
+run = ["sh", "-c", "javac src/Oops/Inheritance.java && java -cp src Inheritance.Inheritance"]
