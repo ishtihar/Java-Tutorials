@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 
 //student marks check
 class Students{

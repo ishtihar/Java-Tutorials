@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Inheritence;
 class Base1 {
     public Base1() {
         System.out.println("Main constructor hu");

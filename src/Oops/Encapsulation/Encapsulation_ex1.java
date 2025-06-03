@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 //Bank Balance encapsulation example ishtihargit
 class Bank {
     private double balance;

@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Inheritence;
 
 interface Animals {
     abstract void sound();

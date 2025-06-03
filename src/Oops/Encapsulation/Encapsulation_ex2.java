@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 //check and store password
 class Password {
     public boolean checkPass(String inputpass) {

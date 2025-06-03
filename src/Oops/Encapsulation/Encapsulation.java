@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 
 class Family {
     private int a;

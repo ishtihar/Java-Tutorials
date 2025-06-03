@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Inheritence;
 class Parent {
     Parent(String name) {
         System.out.println("Parent constructor called: " + name);

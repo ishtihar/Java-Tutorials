@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Encapsulation;
 
 class Bank1  {
     private double balance;

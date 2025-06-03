@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Inheritence;
 
  abstract class Vehical {
     abstract void Sound ();
